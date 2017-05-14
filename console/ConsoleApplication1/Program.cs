@@ -19,7 +19,7 @@ namespace ConsoleApplication1
             c = Convert.ToInt32(Console.ReadLine());
             sonuc = a + b + c;
             Console.WriteLine(sonuc);
-            Console.ReadLine();
+            Console.ReadLine();,
         }
     }
 }
